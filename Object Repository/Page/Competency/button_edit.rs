@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_edit</name>
+   <tag></tag>
+   <elementGuidId>8b5a20e2-52b8-44b0-8a64-aa3194400b39</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/main/div/div/div[3]/div/table/tbody/tr/td[5]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Sửa&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>44943146-e5b9-4ddf-ace9-4a95e88b2a78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-primary-600 hover:text-primary-900 mr-3 cursor-pointer</value>
+      <webElementGuid>1681419a-c237-4904-9cd2-1f2a633104cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Sửa </value>
+      <webElementGuid>ca839bb8-358a-4eb9-8d1a-f7abeae65260</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;flex h-screen bg-gray-100&quot;]/div[@class=&quot;flex-1 flex flex-col overflow-hidden transition-all duration-300 ease-in-out ml-0&quot;]/main[@class=&quot;flex-1 overflow-y-auto&quot;]/div[@class=&quot;p-6&quot;]/div[@class=&quot;space-y-6&quot;]/div[@class=&quot;card relative&quot;]/div[@class=&quot;overflow-x-auto&quot;]/table[@class=&quot;min-w-full divide-y divide-gray-200&quot;]/tbody[@class=&quot;bg-white divide-y divide-gray-200&quot;]/tr[@class=&quot;hover:bg-gray-50 transition-colors&quot;]/td[@class=&quot;px-3 md:px-6 py-4 whitespace-nowrap text-right text-sm font-medium&quot;]/button[@class=&quot;text-primary-600 hover:text-primary-900 mr-3 cursor-pointer&quot;]</value>
+      <webElementGuid>4f0ea8d8-2c5e-4257-b2d3-44082237d48f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/main/div/div/div[3]/div/table/tbody/tr/td[5]/button</value>
+      <webElementGuid>e3bdf06f-eb68-4fc5-8205-f024238cc1c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/following::button[1]</value>
+      <webElementGuid>53106c9b-fe22-462d-b3ef-2e5a634223ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thái độ'])[1]/following::button[1]</value>
+      <webElementGuid>2a6326af-89bc-4ace-bd90-577809ff89a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xóa'])[1]/preceding::button[1]</value>
+      <webElementGuid>08b9d540-d1ef-4ebd-85a5-90bb7d4e50ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trang 1 / 3'])[1]/preceding::button[2]</value>
+      <webElementGuid>6203e9a4-3cc8-4f2f-ba06-03ae5a7c56ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sửa']/parent::*</value>
+      <webElementGuid>97896faf-0e5d-4672-8823-c811d652045e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/button</value>
+      <webElementGuid>b427bea1-fc43-4a9d-9311-26bcdce98514</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Sửa ' or . = ' Sửa ')]</value>
+      <webElementGuid>97998783-b90e-4952-a634-59ec48657da8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

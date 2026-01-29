@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>5th_col_header</name>
+   <tag></tag>
+   <elementGuidId>0bd1ca58-03da-4671-8d1a-ab1e2e90b000</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>th.px-6.py-3.text-right.text-xs.font-medium.text-gray-500.uppercase.tracking-wider</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/main/div/div/div[3]/div/table/thead/tr/th[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Thao tác&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>6a040a36-2e99-4959-8186-e787365a8381</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-6 py-3 text-right text-xs font-medium text-gray-500 uppercase tracking-wider</value>
+      <webElementGuid>57a17743-5e05-478e-859b-1f82fc333bcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Thao tác </value>
+      <webElementGuid>3ea76298-2cf9-45fe-a5ae-451686b638f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;flex h-screen bg-gray-100&quot;]/div[@class=&quot;flex-1 flex flex-col overflow-hidden transition-all duration-300 ease-in-out ml-0&quot;]/main[@class=&quot;flex-1 overflow-y-auto&quot;]/div[@class=&quot;p-6&quot;]/div[@class=&quot;space-y-6&quot;]/div[@class=&quot;card relative&quot;]/div[@class=&quot;overflow-x-auto&quot;]/table[@class=&quot;min-w-full divide-y divide-gray-200&quot;]/thead[@class=&quot;bg-gray-50&quot;]/tr[1]/th[@class=&quot;px-6 py-3 text-right text-xs font-medium text-gray-500 uppercase tracking-wider&quot;]</value>
+      <webElementGuid>e54413ca-3185-4a4a-b23b-9718a03385a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/main/div/div/div[3]/div/table/thead/tr/th[5]</value>
+      <webElementGuid>5a397fce-d70a-4d92-ba95-d782338fb1c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Số cấp độ'])[1]/following::th[1]</value>
+      <webElementGuid>186a4b77-f857-40d3-aa3d-24137d4c12e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Core'])[1]/following::th[2]</value>
+      <webElementGuid>74a1238d-d249-48b7-a241-b0dfd4e5f375</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thái độ'])[1]/preceding::th[1]</value>
+      <webElementGuid>f7645bb9-5ff6-4c7d-a65f-7e878beae09a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Thao tác']/parent::*</value>
+      <webElementGuid>2c93007f-68ad-4829-8d4a-41af9c72daa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[5]</value>
+      <webElementGuid>75a46566-1c6f-4751-8d30-5562ab9f6e63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = ' Thao tác ' or . = ' Thao tác ')]</value>
+      <webElementGuid>b1561f4d-ff1e-4bd0-a936-c66cbe7025f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_themNangLuc</name>
+   <tag></tag>
+   <elementGuidId>773828e0-99a2-4c0f-9223-92e89cfb3b39</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/main/div/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn-primary.cursor-pointer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;+ Thêm năng lực&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>da646696-1d32-4fab-a104-a4fa3e151a16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-primary cursor-pointer</value>
+      <webElementGuid>c55ddcea-8c94-43aa-bcd7-a48a15f827ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> + Thêm năng lực </value>
+      <webElementGuid>7c2e4581-2864-441f-af1c-cd30c3b5780a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;flex h-screen bg-gray-100&quot;]/div[@class=&quot;flex-1 flex flex-col overflow-hidden transition-all duration-300 ease-in-out ml-0&quot;]/main[@class=&quot;flex-1 overflow-y-auto&quot;]/div[@class=&quot;p-6&quot;]/div[@class=&quot;space-y-6&quot;]/div[@class=&quot;flex items-center justify-between&quot;]/button[@class=&quot;btn-primary cursor-pointer&quot;]</value>
+      <webElementGuid>c8a02b4f-35b6-4bf5-bb7e-65d70b426c53</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/main/div/div/div/button</value>
+      <webElementGuid>e1c3212e-1ecd-4079-a39d-bbe7e57cc8de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Từ điển năng lực'])[2]/following::button[1]</value>
+      <webElementGuid>3b7858a3-0e2d-4b08-8c2b-c0855d0184ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='T'])[1]/following::button[1]</value>
+      <webElementGuid>2db8872c-6957-4c29-b404-40bd64aef533</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tên năng lực'])[1]/preceding::button[1]</value>
+      <webElementGuid>a412aeca-577f-4831-97e7-c5aa1efafd18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Năng lực lõi (Core)'])[1]/preceding::button[1]</value>
+      <webElementGuid>055a4a57-be66-4a16-b8cd-4868447e3a8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='+ Thêm năng lực']/parent::*</value>
+      <webElementGuid>f2023f02-9177-4930-a482-b596dd558929</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/button</value>
+      <webElementGuid>7c311c9d-1fb2-46de-9754-779393894fd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' + Thêm năng lực ' or . = ' + Thêm năng lực ')]</value>
+      <webElementGuid>84cb0f40-defc-4a9c-9c6d-00412f7e1d8d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>4th_col_header</name>
+   <tag></tag>
+   <elementGuidId>8ce3bd54-c18a-4cd3-adad-5d6fecbff2c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/main/div/div/div[3]/div/table/thead/tr/th[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Số cấp độ&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>61ce288d-a510-4b9e-b06a-c46e0e53fa09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-3 md:px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider</value>
+      <webElementGuid>6c27e88d-8309-455f-b953-227782c77a3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Số cấp độ</value>
+      <webElementGuid>c96208d5-439a-4480-8397-b880fc0cfd67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;flex h-screen bg-gray-100&quot;]/div[@class=&quot;flex-1 flex flex-col overflow-hidden transition-all duration-300 ease-in-out ml-0&quot;]/main[@class=&quot;flex-1 overflow-y-auto&quot;]/div[@class=&quot;p-6&quot;]/div[@class=&quot;space-y-6&quot;]/div[@class=&quot;card relative&quot;]/div[@class=&quot;overflow-x-auto&quot;]/table[@class=&quot;min-w-full divide-y divide-gray-200&quot;]/thead[@class=&quot;bg-gray-50&quot;]/tr[1]/th[@class=&quot;px-3 md:px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider&quot;]</value>
+      <webElementGuid>2bc0b997-1d74-4342-97b9-2616727b98b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/main/div/div/div[3]/div/table/thead/tr/th[4]</value>
+      <webElementGuid>72c478ac-d686-4cfc-a247-f0f5884cb9a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Core'])[1]/following::th[1]</value>
+      <webElementGuid>32e3c9b5-a147-4502-8ced-4b5c54f15bfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loại'])[1]/following::th[2]</value>
+      <webElementGuid>3d7203a3-c1f3-4cd5-860b-c54aab1710f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thao tác'])[1]/preceding::th[1]</value>
+      <webElementGuid>0f29bd98-b399-4eaa-8240-fadcfdebdcc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Số cấp độ']/parent::*</value>
+      <webElementGuid>34b3d58c-0777-4d99-8e59-c9320a78260b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[4]</value>
+      <webElementGuid>2729ca52-121f-4b80-9d3b-a75be774816f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Số cấp độ' or . = 'Số cấp độ')]</value>
+      <webElementGuid>02f5d7e8-4e42-4efc-a466-3f63a6e855a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

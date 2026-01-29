@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Level 4_behavior</name>
+   <tag></tag>
+   <elementGuidId>34398f08-03a0-4acf-a88d-e6edeebce7c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='competency-form']/div[4]/div/div[4]/textarea</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Nhập mô tả hành vi...&quot;i] >> nth=3</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>bf68f5ba-a62c-46be-ade9-ee654dbb79ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>9b548f70-3e46-4155-94dd-b6470b3519da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full border border-gray-300 rounded-lg px-3 py-2 text-sm</value>
+      <webElementGuid>903df0bb-24db-487e-8383-944a894f331f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Nhập mô tả hành vi...</value>
+      <webElementGuid>d0496002-aaf0-496e-b2aa-8dab3a7ae47e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;competency-form&quot;)/div[4]/div[@class=&quot;space-y-3&quot;]/div[@class=&quot;border border-gray-200 rounded-lg p-3&quot;]/textarea[@class=&quot;w-full border border-gray-300 rounded-lg px-3 py-2 text-sm&quot;]</value>
+      <webElementGuid>2ef12039-6d44-49b4-b6bf-abf6b30a4be2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='competency-form']/div[4]/div/div[4]/textarea</value>
+      <webElementGuid>d7956b84-7d6c-4369-b837-455435577499</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/textarea</value>
+      <webElementGuid>c8d89702-c56b-40dd-b9b7-3e42496c018b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@placeholder = 'Nhập mô tả hành vi...']</value>
+      <webElementGuid>617fead4-9a28-4f2c-9590-3835bdd82044</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

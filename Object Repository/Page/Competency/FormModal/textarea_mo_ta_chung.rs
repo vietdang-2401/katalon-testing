@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_mo_ta_chung</name>
+   <tag></tag>
+   <elementGuidId>95c708de-a04b-431c-9dbf-3f76ead92f87</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='competency-form']/div[3]/textarea</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>textarea.w-full.border.border-gray-300.rounded-lg.px-3.py-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#competency-form div >> internal:has-text=&quot;Mô tả chung&quot;i >> internal:role=textbox</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>fbfaceff-9397-4a1a-9c6e-f8153ce62b4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>49dc5645-05d4-4964-b382-864778c8b1d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full border border-gray-300 rounded-lg px-3 py-2</value>
+      <webElementGuid>d7fe12b2-be93-48f4-a278-e9c742a1c8ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;competency-form&quot;)/div[3]/textarea[@class=&quot;w-full border border-gray-300 rounded-lg px-3 py-2&quot;]</value>
+      <webElementGuid>dbff4adf-4d8b-4432-8d1c-77046b33e0ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='competency-form']/div[3]/textarea</value>
+      <webElementGuid>2b876935-2f61-4ebb-931b-37b7fe474a2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>84803e4e-bca6-40b5-8d96-fa68952cf868</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
